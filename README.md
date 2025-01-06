@@ -1,1 +1,2 @@
-# Deadly-Earthquakes---An-Exploratory-Data-Analysis-EDA-
+# Deadly-Earthquakes  An Exploratory Data Analysis EDA
+This case study is a project to create a data story about the earthquake activities using the dataset provided by The National Earthquake Information Center (NEIC) where we will explore, process, analyze and visualize the collected data of NEIC about every earthquake with a reported magnitude 5.5 or higher since 1965, in order to gain insight into how the earthquakes behave and understand their activity mechanism to avoid the tremendous damages that cause and save people lives
